@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/43299285/94676367-8678dc00-031b-11eb-9b7e-070b791d913f.png" width="30" /> OnlineShop-PHPMyAdmin-MySQL
+# <img src="https://user-images.githubusercontent.com/43299285/94676367-8678dc00-031b-11eb-9b7e-070b791d913f.png" width="100" /> OnlineShop-PHPMyAdmin-MySQL
 
 Hands on exercise to building MySQL database up using one of the most popular tools for web hosting services, able to handle SQL queries by writing PHP code. It is free to use just setting up a local server to start with. 
 
