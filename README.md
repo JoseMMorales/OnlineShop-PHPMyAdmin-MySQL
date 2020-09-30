@@ -1,4 +1,4 @@
-# OnlineShop-PHPMyAdmin-MySQL<img src="https://user-images.githubusercontent.com/43299285/94676367-8678dc00-031b-11eb-9b7e-070b791d913f.png" width="130" />
+# <img src="https://www.bonaval.com/templates/yootheme/cache/phpmyadmin-26fb2216.jpeg" width="160"/> OnlineShop-PHPMyAdmin-MySQL
 
 Hands on exercise to building MySQL database up using one of the most popular tools for web hosting services, able to handle SQL queries by writing PHP code. It is free to use just setting up a local server to start with. 
 
