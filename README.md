@@ -6,7 +6,7 @@ In my case I have been working with [XAMPP](https://www.youtube.com/watch?time_c
 
 [Download XAMPP here!!](https://www.apachefriends.org/index.html)
 
-[Video tutorial to download XAMPP](http://bit.ly/INSTALLXAMPPVID)
+[Video tutorial to download XAMPP](https://www.youtube.com/watch?v=1GevfhBGGWs)
 
 [Video tutorial to open localhost PHPMyAdmin in XAMPP](https://www.youtube.com/watch?v=8HQIsdyf9xc)
 
